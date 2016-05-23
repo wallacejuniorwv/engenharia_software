@@ -1,2 +1,3 @@
 # engenharia_software
-Aprendendo a usar o Git
+Aprendendo a utilizar o Git
+
