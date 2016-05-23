@@ -9,3 +9,5 @@ Nova linha para uma nova alteração.
 Insenrindo uma quarta linha para nova alteração.
 
 inserindo uma quinta linha para mais uma alteração.
+
+Inserindo uma sexta linha para entender o que acontece após o commit.
